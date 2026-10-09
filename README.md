@@ -22,4 +22,6 @@ authors' workstation and must be adapted.
 Note on this release: the scripts are those used for the analyses, with lines that processed an additional, earlier
 model not reported in the manuscript removed. This does not change any result reported in the paper.
 
+Software versions: see ENVIRONMENT.md. How to cite: see CITATION.cff.
+
 License: MIT (see LICENSE).

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or the retrained models, please cite the article and the archived data/code."
+title: "Code for: Retraining DeepVariant with a simulation-derived truth set improves variant calling in a non-model vertebrate, the green sea turtle (Chelonia mydas)"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/FahadAslam988/Cmydas-DeepVariant-retraining"
+doi: 10.5281/zenodo.23269325
+authors:
+  - {family-names: Aslam, given-names: Fahad, orcid: "https://orcid.org/0000-0003-2881-6901"}
+  - {family-names: Aplop, given-names: Faizah, orcid: "https://orcid.org/0000-0002-2473-7846"}
+  - {family-names: Mohd Afandy, given-names: Muhammad Nasyrul Adly}
+  - {family-names: Abdullah, given-names: Muhd Danish Daniel, orcid: "https://orcid.org/0000-0001-9438-0128"}
+  - {family-names: Mohamad, given-names: Saharuddin, orcid: "https://orcid.org/0000-0003-4515-6618"}
+  - {family-names: Atan, given-names: Edinur Hisham, orcid: "https://orcid.org/0000-0002-3379-6063"}
+  - {family-names: Rusli, given-names: Mohd Uzair Bin, orcid: "https://orcid.org/0000-0002-2221-1541"}
+  - {family-names: Mat Ripen, given-names: Adiratna Binti}
