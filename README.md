@@ -13,7 +13,7 @@ non-model vertebrate, the green sea turtle (Chelonia mydas)" (manuscript submitt
 | `06_figures_tables/` | figures, tables and additional files of the manuscript |
 
 Data: raw reads NCBI SRA PRJNA1312993; reference GCF_015237465.2; simulated truth set and default call sets
-https://doi.org/10.5281/zenodo.23088583; models and outputs of this study: [Zenodo DOI to be added].
+https://doi.org/10.5281/zenodo.23088583; models and outputs of this study, and the archived version of this code (v1.0.0): https://doi.org/10.5281/zenodo.23269325.
 
 Requirements: Linux, Docker, DeepVariant v1.9.0 Docker images, hap.py v0.3.12 (Docker), BCFtools v1.22, SAMtools, Python 3
 (numpy, matplotlib, python-docx, openpyxl), Apache Beam (for shuffling). Paths at the top of each script refer to the
