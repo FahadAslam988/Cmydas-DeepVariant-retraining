@@ -1,4 +1,4 @@
-# DeepVariant retrained on a simulation-derived truth set: green sea turtle (Chelonia mydas)
+# Improved whole-genome variant calling in the green sea turtle (Chelonia mydas) with a DeepVariant model retrained on a simulation-derived truth set
 
 Code for the study "Improved whole-genome variant calling in the green sea turtle (Chelonia mydas) with a DeepVariant model retrained on a simulation-derived truth set"
 (manuscript submitted to BMC Genomics).
