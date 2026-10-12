@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the retrained models, please cite the article and the archived data/code."
-title: "Code for: Retraining DeepVariant with a simulation-derived truth set improves variant calling in a non-model vertebrate, the green sea turtle (Chelonia mydas)"
+title: "Code for: Improved whole-genome variant calling in the green sea turtle (Chelonia mydas) with a DeepVariant model retrained on a simulation-derived truth set"
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/FahadAslam988/Cmydas-DeepVariant-retraining"
