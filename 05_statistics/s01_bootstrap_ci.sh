@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Paper 2 (BMC Bioinformatics): 95% CIs by PAIRED BLOCK BOOTSTRAP, same method as Paper 1
+# Paper 2 (BMC Genomics): 95% CIs by PAIRED BLOCK BOOTSTRAP, same method as Paper 1
 # (rerun/10_.../scripts/s06_bootstrap_ci.sh): 1,000 replicates, 1-Mb blocks, seed 20261001.
 # Input = existing per-variant hap.py output VCFs (FORMAT/BD = TP/FP/FN, BVT = SNP/INDEL). Read-only; nothing is re-run.
 # Groups (all callers in a group share the same block resampling = paired):
