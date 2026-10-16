@@ -4,7 +4,7 @@ title: "Code for: Improved whole-genome variant calling in the green sea turtle 
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/FahadAslam988/Cmydas-DeepVariant-retraining"
-doi: 10.5281/zenodo.23269325
+doi: 10.6084/m9.figshare.34598232
 authors:
   - {family-names: Aslam, given-names: Fahad, orcid: "https://orcid.org/0000-0003-2881-6901"}
   - {family-names: Aplop, given-names: Faizah, orcid: "https://orcid.org/0000-0002-2473-7846"}
